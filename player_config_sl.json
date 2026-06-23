@@ -2,7 +2,6 @@
    "player":"shaka",
    "config":{
       "common":{
-         "default_aspect_ratio":"letterbox0"
       }
    }
 }
