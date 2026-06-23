@@ -2,7 +2,7 @@
    "player":"shaka",
    "config":{
       "common":{
-         "default_aspect_ratio":"panScan"
+         "default_aspect_ratio":"combined"
       }
    }
 }
