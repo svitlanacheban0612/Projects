@@ -1,8 +1,7 @@
 {
    "player":"shaka",
    "config":{
-      "common":{
-         "default_aspect_ratio":"enlarged"
-      }
+      "default_subtitle_lang": "pt"
+       "default_audio_lang": "ru"
    }
 }
