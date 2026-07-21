@@ -5,7 +5,7 @@
        "default_audio_lang": "ru"
       "common":{
 
-         "default_aspect_ratio":"original"
+         "default_aspect_ratio":"letterbox"
 
       }
    }
