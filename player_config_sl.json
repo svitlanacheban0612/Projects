@@ -3,5 +3,10 @@
    "config":{
       "default_subtitle_lang": "pt"
        "default_audio_lang": "ru"
+      "common":{
+
+         "default_aspect_ratio":"original"
+
+      }
    }
 }
